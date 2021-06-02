@@ -1,0 +1,24 @@
+
+.contact {
+    font-size: 90%;
+    transition: font-size 1s;
+}
+.contact:hover {
+    font-size: 150%;
+}
+
+.about {
+    font-size: 90%;
+    transition: font-size 1s;
+}
+.about:hover {
+    font-size: 150%;
+}
+
+.portfolio {
+    font-size: 90%;
+    transition: font-size 1s;
+}
+.portfolio:hover {
+    font-size: 150%;
+}
